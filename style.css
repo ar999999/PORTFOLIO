@@ -36,7 +36,7 @@ body{
 
 section{
 
-    min-height: 100vh;
+    min-height: 1vh;
     padding: 10rem 9% 2rem;
 }
 
@@ -405,4 +405,5 @@ transition: .5s ease;
     margin-top: 2rem;
     cursor:pointer;
     
+
 }
